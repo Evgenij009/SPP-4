@@ -1,0 +1,452 @@
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\TestsGenerator.dll.config
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\TestsGenerator.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\TestsGenerator.pdb
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\netstandard.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.AppContext.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Collections.Concurrent.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Collections.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Collections.NonGeneric.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Collections.Specialized.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.ComponentModel.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.ComponentModel.Primitives.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Console.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Data.Common.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Diagnostics.Contracts.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Diagnostics.Debug.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Diagnostics.Process.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Diagnostics.Tools.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Diagnostics.Tracing.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Drawing.Primitives.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Dynamic.Runtime.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Globalization.Calendars.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Globalization.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Globalization.Extensions.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.IO.Compression.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.IO.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.IO.FileSystem.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.IO.IsolatedStorage.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.IO.Pipes.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Linq.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Linq.Expressions.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Linq.Parallel.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Linq.Queryable.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Net.Http.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Net.NameResolution.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Net.NetworkInformation.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Net.Ping.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Net.Primitives.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Net.Requests.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Net.Security.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Net.Sockets.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Net.WebSockets.Client.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Net.WebSockets.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.ObjectModel.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Reflection.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Reflection.Extensions.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Reflection.Primitives.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Resources.Reader.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Resources.ResourceManager.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Resources.Writer.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Runtime.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Runtime.Extensions.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Runtime.Handles.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Runtime.InteropServices.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Runtime.Numerics.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Security.Claims.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Security.Principal.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Security.SecureString.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Text.Encoding.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Text.RegularExpressions.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Threading.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Threading.Overlapped.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Threading.Tasks.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Threading.Thread.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Threading.ThreadPool.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Threading.Timer.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.ValueTuple.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Xml.ReaderWriter.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Xml.XDocument.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Xml.XmlDocument.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Xml.XmlSerializer.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Xml.XPath.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Buffers.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Collections.Immutable.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Memory.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Numerics.Vectors.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Reflection.Metadata.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.pdb
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.xml
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Buffers.xml
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Collections.Immutable.xml
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Memory.xml
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Numerics.Vectors.xml
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Reflection.Metadata.xml
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\obj\Debug\TestsGenerator.csprojAssemblyReference.cache
+E:\5 сем\СПП\лаба 4\TestsGenerator\obj\Debug\TestsGenerator.csproj.CopyComplete
+E:\5 сем\СПП\лаба 4\TestsGenerator\obj\Debug\TestsGenerator.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\obj\Debug\TestsGenerator.pdb
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.Workspaces.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Composition.AttributedModel.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Composition.Convention.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Composition.Hosting.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Composition.Runtime.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\System.Composition.TypedParts.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.Workspaces.pdb
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.Workspaces.xml
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\Humanizer.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.pdb
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.pdb
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.xml
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.pdb
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.xml
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+E:\5 сем\СПП\лаба 4\TestsGenerator\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\obj\Debug\TestsGenerator.csproj.AssemblyReference.cache
+P:\SPP\task4\TestsGenerator\obj\Debug\TestsGenerator.GeneratedMSBuildEditorConfig.editorconfig
+P:\SPP\task4\TestsGenerator\obj\Debug\TestsGenerator.csproj.CoreCompileInputs.cache
+P:\SPP\task4\TestsGenerator\bin\Debug\TestsGenerator.dll.config
+P:\SPP\task4\TestsGenerator\bin\Debug\TestsGenerator.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\TestsGenerator.pdb
+P:\SPP\task4\TestsGenerator\bin\Debug\Microsoft.Win32.Primitives.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\netstandard.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.AppContext.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Collections.Concurrent.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Collections.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Collections.NonGeneric.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Collections.Specialized.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.ComponentModel.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.ComponentModel.Primitives.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.ComponentModel.TypeConverter.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Console.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Data.Common.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Diagnostics.Contracts.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Diagnostics.Debug.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Diagnostics.Process.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Diagnostics.StackTrace.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Diagnostics.Tools.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Diagnostics.TraceSource.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Diagnostics.Tracing.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Drawing.Primitives.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Dynamic.Runtime.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Globalization.Calendars.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Globalization.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Globalization.Extensions.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.IO.Compression.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.IO.Compression.ZipFile.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.IO.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.IO.FileSystem.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.IO.FileSystem.Primitives.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.IO.FileSystem.Watcher.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.IO.IsolatedStorage.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.IO.MemoryMappedFiles.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.IO.Pipes.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Linq.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Linq.Expressions.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Linq.Parallel.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Linq.Queryable.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Net.Http.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Net.NameResolution.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Net.NetworkInformation.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Net.Ping.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Net.Primitives.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Net.Requests.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Net.Security.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Net.Sockets.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Net.WebHeaderCollection.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Net.WebSockets.Client.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Net.WebSockets.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.ObjectModel.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Reflection.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Reflection.Extensions.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Reflection.Primitives.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Resources.Reader.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Resources.ResourceManager.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Resources.Writer.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Runtime.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Runtime.Extensions.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Runtime.Handles.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Runtime.InteropServices.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Runtime.Numerics.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Runtime.Serialization.Formatters.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Runtime.Serialization.Json.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Runtime.Serialization.Primitives.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Runtime.Serialization.Xml.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Security.Claims.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Security.Cryptography.Algorithms.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Security.Cryptography.Csp.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Security.Cryptography.Encoding.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Security.Cryptography.Primitives.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Security.Principal.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Security.SecureString.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Text.Encoding.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Text.Encoding.Extensions.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Text.RegularExpressions.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Threading.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Threading.Overlapped.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Threading.Tasks.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Threading.Tasks.Parallel.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Threading.Thread.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Threading.ThreadPool.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Threading.Timer.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.ValueTuple.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Xml.ReaderWriter.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Xml.XDocument.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Xml.XmlDocument.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Xml.XmlSerializer.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Xml.XPath.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Xml.XPath.XDocument.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\Humanizer.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.Workspaces.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Buffers.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Collections.Immutable.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Composition.AttributedModel.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Composition.Convention.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Composition.Hosting.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Composition.Runtime.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Composition.TypedParts.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.IO.Pipelines.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Memory.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Numerics.Vectors.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Reflection.Metadata.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Text.Encoding.CodePages.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Threading.Tasks.Extensions.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\Humanizer.xml
+P:\SPP\task4\TestsGenerator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+P:\SPP\task4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.pdb
+P:\SPP\task4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.xml
+P:\SPP\task4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+P:\SPP\task4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+P:\SPP\task4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.pdb
+P:\SPP\task4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.CSharp.Workspaces.xml
+P:\SPP\task4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.pdb
+P:\SPP\task4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.xml
+P:\SPP\task4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.pdb
+P:\SPP\task4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.VisualBasic.Workspaces.xml
+P:\SPP\task4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.Workspaces.pdb
+P:\SPP\task4\TestsGenerator\bin\Debug\Microsoft.CodeAnalysis.Workspaces.xml
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Collections.Immutable.xml
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Composition.AttributedModel.xml
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Composition.Convention.xml
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Composition.Hosting.xml
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Composition.Runtime.xml
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Composition.TypedParts.xml
+P:\SPP\task4\TestsGenerator\bin\Debug\System.IO.Pipelines.xml
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Reflection.Metadata.xml
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Text.Encoding.CodePages.xml
+P:\SPP\task4\TestsGenerator\bin\Debug\System.Threading.Tasks.Extensions.xml
+P:\SPP\task4\TestsGenerator\bin\Debug\cs\Microsoft.CodeAnalysis.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\de\Microsoft.CodeAnalysis.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\es\Microsoft.CodeAnalysis.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\fr\Microsoft.CodeAnalysis.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\it\Microsoft.CodeAnalysis.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\ja\Microsoft.CodeAnalysis.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\ko\Microsoft.CodeAnalysis.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\pl\Microsoft.CodeAnalysis.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\pt-BR\Microsoft.CodeAnalysis.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\ru\Microsoft.CodeAnalysis.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\tr\Microsoft.CodeAnalysis.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\bin\Debug\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+P:\SPP\task4\TestsGenerator\obj\Debug\TestsGenerator.csproj.CopyComplete
+P:\SPP\task4\TestsGenerator\obj\Debug\TestsGenerator.dll
+P:\SPP\task4\TestsGenerator\obj\Debug\TestsGenerator.pdb
